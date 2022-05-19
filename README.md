@@ -21,7 +21,9 @@ Exemplo:
 3 2 1 4
 ```
 Seu output seguira este padrão:
+
 Produtor Y produzindo Z na posição H
+
 Consumidor I consumindo J da posição H
 
 Exemplo:
